@@ -1,2 +1,2 @@
-# Comparing_Cosmetic_Ingredient
+# Compare_Cosmetic_Ingredient
 NLP OHE T-sne
